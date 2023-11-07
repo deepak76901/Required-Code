@@ -1,0 +1,1 @@
+lsb_release -cd  ; getconf LONG_BIT ; lsb_release -a
