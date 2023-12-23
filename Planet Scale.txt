@@ -1,0 +1,3 @@
+userName = hvda6k4xtuhh76ewp91d
+
+password = pscale_pw_BLf74GFiJ7ePzpGEWov8JWfQdBmIwWY9pg9RDaJpVJ3
